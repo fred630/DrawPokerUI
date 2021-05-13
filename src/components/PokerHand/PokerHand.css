@@ -1,0 +1,10 @@
+.pokerhand {
+    align-items: center;
+    text-align: center;
+    margin: 25px 49.5%;
+    display: flex;
+}
+
+.playername {
+    display: inline-block;
+}
